@@ -18,7 +18,7 @@ export class HomeComponent implements OnInit {
 
   constructor(private store: StoresService, private http: HttpClient ) { }
     getIcon(icon) {
-      return `../../assets/flag-icons/png/${icon.toLocaleLowerCase()}.png`;
+      return `assets/flag-icons/png/${icon.toLocaleLowerCase()}.png`;
     }
   activeItem (icon, index) {
     this.isActiveItem = icon;
