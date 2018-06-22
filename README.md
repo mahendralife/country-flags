@@ -13,4 +13,4 @@ http://hjnilsson.github.io/country-flags/
 after that compress all svg icon
 
 # Live URL 
-https://mahendralife.github.io/angular2-material-icons/
+https://mahendralife.github.io/country-flags
