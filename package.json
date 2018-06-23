@@ -1,5 +1,5 @@
 {
-  "name": "angular2-material-icons",
+  "name": "country-flags",
   "version": "1.0.0",
   "scripts": {
     "ng": "ng",
@@ -8,7 +8,7 @@
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",
-    "live": "ng build --base-href=https://mahendralife.github.io/angular2-material-icons/  --aot --prod --vendor-chunk --common-chunk --build-optimizer --named-chunks"
+    "live": "ng build --base-href=https://mahendralife.github.io/country-flags/  --aot --prod --vendor-chunk --common-chunk --build-optimizer --named-chunks"
   },
   "private": true,
   "dependencies": {
@@ -50,11 +50,11 @@
     "tslint": "~5.9.1",
     "typescript": "~2.7.2"
   },
-  "description": "Angular  directive to use Material Design icons with custom fill-color.",
+  "description": "National flags icons (SVG and PNG) and JSON file of the all 245 independent countries of the world in alphabetical order",
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mahendralife/angular2-material-icons.git"
+    "url": "https://mahendralife.github.io/country-flags/ "
   },
   "keywords": [
     "Angular",
@@ -64,7 +64,7 @@
   "author": "mahendra.life@hotmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mahendralife/angular2-material-icons/issues"
+    "url": "https://mahendralife.github.io/country-flags/issues"
   },
-  "homepage": "https://github.com/mahendralife/angular2-material-icons#readme"
+  "homepage": "https://mahendralife.github.io/country-flags/#readme"
 }
